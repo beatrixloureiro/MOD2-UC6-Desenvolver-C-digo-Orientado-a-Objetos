@@ -1,0 +1,54 @@
+Atividade 5
+
+Contexto
+
+Um dos sistemas mais recentes na empresa atenderá a uma rede de pizzarias. Nele, poderão ser cadastradas as pizzas e, para cada pizza, seus ingredientes, a fim de que seja montado um cardápio virtual aos clientes. O sistema também será usado para registrar pedidos de pizzas e mostrar na cozinha a próxima pizza a ser preparada, sendo que a primeira pizza pedida deve ser a primeira a ficar pronta.
+
+Com base nisso, implemente um programa Java que simule o cadastramento de pizzas e o controle de pedidos.
+
+ 
+
+Atividade
+
+Crie um projeto Java NetBeans e nele faça o seguinte:
+
+    Desenvolva uma classe Pizza, com nome, tamanho (em cm), preço, uma indicação sobre se é doce ou salgada e a lista de ingredientes (cada ingrediente pode ser um texto simples). Cada pizza deve ser capaz de imprimir seus próprios dados na tela.
+    Desenvolva uma classe Bebida com nome, quantidade (em ml), preço. Cada bebida deve ser capaz de imprimir seus próprios dados na tela.
+    Desenvolva uma classe Cardapio, que contenha o nome da pizzaria, uma lista de pizzas e outra de bebidas. Não há limitação na quantidade de pizzas e bebidas a ser cadastrada no cardápio.
+    Desenvolva uma classe Pedido, que contenha o número da mesa, a(s) pizza(s) e a(s) bebida(s) solicitada(s). Cada pedido deve ser capaz de calcular seu total e retornar esse valor.
+    Implemente um código principal com um menu para que o usuário possa
+
+        cadastrar nova pizza no cardápio.
+        cadastrar nova bebida no cardápio.
+        listar o cardápio.
+        criar pedido e mostrar dados do pedido.
+        cadastrar pedido para a cozinha.
+        extrair próximo pedido a ser preparado e levado ao cliente.
+
+Para cada classe criada, use encapsulamento (get/set) e desenvolva construtores e outros métodos sempre que necessário ou conveniente.
+
+ 
+
+Entrega
+
+No espaço dedicado a entregas da atividade, envie um arquivo compactado (ZIP, RAR ou 7z) contendo o projeto NetBeans criado para a atividade.
+
+ 
+
+Dica de leitura
+
+Para esta atividade, leia o seguinte material:
+
+    Estruturas de dados: conceitos, aplicação e usabilidade
+
+ 
+
+Avaliação
+
+Nesta atividade, você será avaliado nos indicadores:
+
+    Manipula estruturas de dados de acordo com requisitos do sistema e linguagem de programação.
+    Utiliza linguagem de programação orientada a objetos de acordo com requisitos do sistema e linguagem de programação.
+
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga. Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+

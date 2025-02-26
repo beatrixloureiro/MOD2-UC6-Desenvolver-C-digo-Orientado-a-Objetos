@@ -1,0 +1,4 @@
+Funcionario
+SistemaRH
+FuncionarioHorista
+FuncionarioAssalariado
